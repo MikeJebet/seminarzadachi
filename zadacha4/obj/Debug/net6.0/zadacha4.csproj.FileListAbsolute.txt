@@ -1,0 +1,15 @@
+/Users/mikejebet/Desktop/zadachidz/zadacha4/bin/Debug/net6.0/zadacha4
+/Users/mikejebet/Desktop/zadachidz/zadacha4/bin/Debug/net6.0/zadacha4.deps.json
+/Users/mikejebet/Desktop/zadachidz/zadacha4/bin/Debug/net6.0/zadacha4.runtimeconfig.json
+/Users/mikejebet/Desktop/zadachidz/zadacha4/bin/Debug/net6.0/zadacha4.dll
+/Users/mikejebet/Desktop/zadachidz/zadacha4/bin/Debug/net6.0/zadacha4.pdb
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/zadacha4.csproj.AssemblyReference.cache
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/zadacha4.AssemblyInfoInputs.cache
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/zadacha4.AssemblyInfo.cs
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/zadacha4.csproj.CoreCompileInputs.cache
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/zadacha4.dll
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/refint/zadacha4.dll
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/zadacha4.pdb
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/zadacha4.genruntimeconfig.cache
+/Users/mikejebet/Desktop/zadachidz/zadacha4/obj/Debug/net6.0/ref/zadacha4.dll
